@@ -26,7 +26,7 @@ The core of the code involved training and evaluating text classification models
 
 ## Conclusion
 
-![results](\output.png)
+![results](output.png)
 
 This code focused on the task of text classification within the context of an Iranian newspaper dataset. The project encompassed data exploration, text preprocessing, feature engineering, and model training. Notably, it provided an opportunity to assess the performance of different machine learning algorithms on the given task.
 
