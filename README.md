@@ -25,7 +25,9 @@ Appropriate partitioning of the dataset into training and testing subsets was cr
 The core of the code involved training and evaluating text classification models. Various machine learning algorithms were explored, including Random Forest, Linear SVC, Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN). Model performance was assessed using accuracy as the primary evaluation metric on both training and testing datasets.
 
 ## Conclusion
-[results](\output.png)
+
+![results](\output.png)
+
 This code focused on the task of text classification within the context of an Iranian newspaper dataset. The project encompassed data exploration, text preprocessing, feature engineering, and model training. Notably, it provided an opportunity to assess the performance of different machine learning algorithms on the given task.
 
 The results indicated that the Random Forest model, coupled with TF-IDF vectorization, demonstrated the highest accuracy in categorizing newspaper articles into predefined topics. This achievement highlights the potential of this approach for similar real-world applications in the domain of Iranian newspapers or text classification in general.
